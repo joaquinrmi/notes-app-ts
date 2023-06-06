@@ -1,0 +1,4 @@
+interface DeleteBookParams
+{
+    id: number;
+}
